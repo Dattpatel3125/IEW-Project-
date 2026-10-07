@@ -1,0 +1,6 @@
+{
+  "name": "Mature Field Production Decision-Support System",
+  "description": "AI-based decision-support tool for petroleum and reservoir engineers managing mature oil fields. Predict oil production, energy use, operating cost, and CO2 emissions to determine balanced operating scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
